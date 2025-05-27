@@ -23,7 +23,7 @@ Modern electric trucks represent a significant leap forward in sustainable trans
 #
 
 [Car Design](https://chatgpt.com/g/g-EPHgYBaHt-car-design)
-<br<
+<br>
 [Road Director](https://chatgpt.com/g/g-edHM2V603-road-director)
 <br>
 [Autonomous Drive](https://chatgpt.com/g/g-6793267163c0819186814bb34724ccff-autonomous-drive)
