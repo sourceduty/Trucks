@@ -10,7 +10,7 @@ Pickup trucks, utility trucks, transport trucks, and heavy trucks each serve dis
 
 #
 
-![Trucker](https://github.com/user-attachments/assets/a9494909-bf46-4678-b1d1-bfe47b892071)
+![Driverless](https://github.com/user-attachments/assets/e0a39461-a931-4f7c-a8a9-222c9cfd64f8)
 
 Transport truck drivers play a crucial role in the global economy by ensuring the continuous flow of goods across cities, states, and even international borders. These professionals operate large, heavy vehicles, often spending long hours on the road navigating highways, rural routes, and urban areas to deliver everything from food and fuel to construction materials and consumer products. The job demands a high level of responsibility and skill, requiring drivers to manage strict delivery schedules, adhere to safety regulations, and maintain their vehicles in optimal condition. Despite the solitary nature of the work, truck drivers are essential to supply chains, providing the backbone for industries that depend on timely deliveries. Their dedication is often underappreciated, yet they face numerous challenges, including fatigue, time away from family, and the physical toll of long-distance driving. Nevertheless, many take pride in the independence and sense of purpose the job offers, knowing that their work keeps shelves stocked, factories running, and communities connected.
 
