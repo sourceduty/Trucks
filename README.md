@@ -49,3 +49,5 @@ Also, similarly, [OBD2 Performance](https://chatgpt.com/g/g-684648cb9b18819185a1
 [Road Director](https://chatgpt.com/g/g-edHM2V603-road-director)
 <br>
 [Autonomous Drive](https://chatgpt.com/g/g-6793267163c0819186814bb34724ccff-autonomous-drive)
+<br>
+[V2V](https://chatgpt.com/g/g-686f2da038008191a9838c9c88d2620c-vehicle-to-vehicle-v2v)
