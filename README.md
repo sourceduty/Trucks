@@ -14,6 +14,12 @@ Pickup trucks, utility trucks, transport trucks, and heavy trucks each serve dis
 
 Transport truck drivers play a crucial role in the global economy by ensuring the continuous flow of goods across cities, states, and even international borders. These professionals operate large, heavy vehicles, often spending long hours on the road navigating highways, rural routes, and urban areas to deliver everything from food and fuel to construction materials and consumer products. The job demands a high level of responsibility and skill, requiring drivers to manage strict delivery schedules, adhere to safety regulations, and maintain their vehicles in optimal condition. Despite the solitary nature of the work, truck drivers are essential to supply chains, providing the backbone for industries that depend on timely deliveries. Their dedication is often underappreciated, yet they face numerous challenges, including fatigue, time away from family, and the physical toll of long-distance driving. Nevertheless, many take pride in the independence and sense of purpose the job offers, knowing that their work keeps shelves stocked, factories running, and communities connected.
 
+<br>
+
+![Transport](https://github.com/user-attachments/assets/27a9de84-ea74-4ae1-8cc9-0c6459d18196)
+
+A [truck engineer](https://chatgpt.com/g/g-686f6438afb88191a07408bb2fdb7135-truck-engineer) is a specialized professional who focuses on the design, development, and optimization of commercial trucks and transport vehicles. They work to improve various aspects of truck performance, including fuel efficiency, safety, cargo capacity, durability, and overall functionality across different terrains and conditions. Truck engineers incorporate innovations in areas like aerodynamics, engine design, materials, and electronics, with a growing emphasis on sustainability, such as electric trucks and autonomous driving technologies. They also ensure that their designs comply with regulatory standards and safety requirements, aiming to provide cost-effective and high-performance solutions for the transportation industry.
+
 #
 
 ![Truck Bed Work Light](https://github.com/user-attachments/assets/8a355cd7-ba01-4e85-bfcc-cd68119bd694)
@@ -35,12 +41,6 @@ Modern electric trucks represent a significant leap forward in sustainable trans
 [OBD2 Simulator](https://chatgpt.com/g/g-hm9vqprZa-obd2-simulator) is an OBD2 (On-Board Diagnostics) terminal simulator, allowing users to run and understand automotive diagnostic commands in a format that mimics a real OBD2 interface. It provides structured terminal-style responses and interprets OBD2 data such as Diagnostic Trouble Codes (DTCs), sensor readings, and system status messages. Designed for clarity and accuracy, it helps users—whether beginners or experienced technicians—diagnose vehicle issues by offering realistic examples and straightforward explanations. The GPT guides users step-by-step, starting by selecting a vehicle to simulate, and ensures all outputs resemble typical data one would receive from an actual OBD2 scan tool.
 
 Also, similarly, [OBD2 Performance](https://chatgpt.com/g/g-684648cb9b18819185a1ec372363d65e-obd2-performance) was made to help drivers safely enhance vehicle performance using OBD2 diagnostics and tuning tools like HP Tuners or EFI Live. It guides users through interpreting live engine data—such as air-fuel ratios (AFR), fuel trims, boost pressure, and ignition timing—and explains how these values relate to performance, efficiency, and reliability. By offering step-by-step advice, it helps users make smart, conservative adjustments to their ECU maps, whether for daily driving, racing, or performance builds. The GPT also emphasizes safe tuning practices, such as monitoring for knock, using enrichment tables, and retaining thermal protections to avoid long-term engine damage.
-
-#
-
-![Transport](https://github.com/user-attachments/assets/27a9de84-ea74-4ae1-8cc9-0c6459d18196)
-
-A [truck engineer](https://chatgpt.com/g/g-686f6438afb88191a07408bb2fdb7135-truck-engineer) is a specialized professional who focuses on the design, development, and optimization of commercial trucks and transport vehicles. They work to improve various aspects of truck performance, including fuel efficiency, safety, cargo capacity, durability, and overall functionality across different terrains and conditions. Truck engineers incorporate innovations in areas like aerodynamics, engine design, materials, and electronics, with a growing emphasis on sustainability, such as electric trucks and autonomous driving technologies. They also ensure that their designs comply with regulatory standards and safety requirements, aiming to provide cost-effective and high-performance solutions for the transportation industry.
 
 #
 
