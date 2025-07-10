@@ -38,6 +38,12 @@ Also, similarly, [OBD2 Performance](https://chatgpt.com/g/g-684648cb9b18819185a1
 
 #
 
+![Transport](https://github.com/user-attachments/assets/27a9de84-ea74-4ae1-8cc9-0c6459d18196)
+
+A [truck engineer](https://chatgpt.com/g/g-686f6438afb88191a07408bb2fdb7135-truck-engineer) is a specialized professional who focuses on the design, development, and optimization of commercial trucks and transport vehicles. They work to improve various aspects of truck performance, including fuel efficiency, safety, cargo capacity, durability, and overall functionality across different terrains and conditions. Truck engineers incorporate innovations in areas like aerodynamics, engine design, materials, and electronics, with a growing emphasis on sustainability, such as electric trucks and autonomous driving technologies. They also ensure that their designs comply with regulatory standards and safety requirements, aiming to provide cost-effective and high-performance solutions for the transportation industry.
+
+#
+
 [Car Design](https://chatgpt.com/g/g-EPHgYBaHt-car-design)
 <br>
 [Road Director](https://chatgpt.com/g/g-edHM2V603-road-director)
