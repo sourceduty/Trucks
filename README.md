@@ -1,4 +1,4 @@
-![Off-Road Antique Mud Truck](https://github.com/user-attachments/assets/b9b34492-52f0-49b1-8c36-340be10d0ee8)
+![Premium Rugged Pickup Truck](https://github.com/user-attachments/assets/30702c08-5e38-4315-8b42-f392e2af4f55)
 
 Pickup trucks, utility trucks, transport trucks, and heavy trucks each serve distinct roles in the transportation and logistics ecosystem. Pickup trucks are smaller, versatile vehicles commonly used for personal transport and light-duty tasks such as carrying tools, equipment, or small loads. Utility trucks, often outfitted with specialized compartments and tools, are essential for maintenance, construction, and service industries that require on-site support and equipment transport. Transport trucks, also known as freight trucks or semi-trucks, are designed to haul large cargo over long distances, forming the backbone of commercial shipping. Heavy trucks, including dump trucks and flatbeds, handle the most demanding tasks, such as moving heavy materials or equipment in construction, mining, and industrial operations. Together, these truck types contribute to a highly integrated transport system that supports modern infrastructure and commerce.
 
@@ -7,6 +7,12 @@ Pickup trucks, utility trucks, transport trucks, and heavy trucks each serve dis
 ![Ford Streetsweeper Truck](https://github.com/user-attachments/assets/736cf4ad-49d3-4ff3-9c79-e6035d390f9b)
 
 [Truck Attachment](https://chatgpt.com/g/g-6794481f88b48191952e280cf1e78598-truck-attachment) was made to support the design, engineering, and development of pickup truck mounting attachment systems for a wide range of applications, including toolboxes, cargo racks, snowplows, off-road accessories, and specialized fleet or utility equipment. It provides expert guidance on structural integrity, material selection, weight distribution, and vibration resistance, ensuring that all attachment systems are safe, durable, and compatible with specific truck makes and models. The GPT can generate 3D CAD concepts, technical drawings, and detailed installation instructions, while also helping users navigate compliance with vehicle safety standards and industry best practices. Whether users are outfitting a truck for work, recreation, or custom commercial purposes, this GPT offers solutions optimized for real-world conditions like corrosion, weather exposure, and load dynamics. Additionally, it supports customization for unique needs, ensuring that designs are innovative yet practical, with integration tips for both factory and aftermarket mounting points.
+
+#
+
+![Off-Road Antique Mud Truck](https://github.com/user-attachments/assets/b9b34492-52f0-49b1-8c36-340be10d0ee8)
+
+[Truck Dork](https://chatgpt.com/g/g-6872921a5814819198fbff3ef65c2df6-trucker-dork) is a custom GPT designed to assist with creating and improving solutions tailored to the trucking industry. It focuses on enhancing truck operations, safety, efficiency, and driver well-being. This includes optimizing routes, fuel efficiency, load management, and developing apps for real-time vehicle diagnostics, maintenance schedules, and driver communication. Trucker Dork also integrates technologies like GPS tracking, telematics, and AI-powered systems into user-friendly software. The goal is to provide scalable, adaptable solutions for independent truckers and large fleets while considering practical logistics challenges and regulatory compliance.
 
 #
 
