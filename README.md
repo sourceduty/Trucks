@@ -10,15 +10,11 @@ Pickup trucks, utility trucks, transport trucks, and heavy trucks each serve dis
 
 #
 
-![Off-Road Antique Mud Truck](https://github.com/user-attachments/assets/b9b34492-52f0-49b1-8c36-340be10d0ee8)
-
-[Truck Dork](https://chatgpt.com/g/g-6872921a5814819198fbff3ef65c2df6-trucker-dork) is a custom GPT designed to assist with creating and improving solutions tailored to the trucking industry. It focuses on enhancing truck operations, safety, efficiency, and driver well-being. This includes optimizing routes, fuel efficiency, load management, and developing apps for real-time vehicle diagnostics, maintenance schedules, and driver communication. Trucker Dork also integrates technologies like GPS tracking, telematics, and AI-powered systems into user-friendly software. The goal is to provide scalable, adaptable solutions for independent truckers and large fleets while considering practical logistics challenges and regulatory compliance.
-
-#
-
 ![Driverless](https://github.com/user-attachments/assets/e0a39461-a931-4f7c-a8a9-222c9cfd64f8)
 
 Transport truck drivers play a crucial role in the global economy by ensuring the continuous flow of goods across cities, states, and even international borders. These professionals operate large, heavy vehicles, often spending long hours on the road navigating highways, rural routes, and urban areas to deliver everything from food and fuel to construction materials and consumer products. The job demands a high level of responsibility and skill, requiring drivers to manage strict delivery schedules, adhere to safety regulations, and maintain their vehicles in optimal condition. Despite the solitary nature of the work, truck drivers are essential to supply chains, providing the backbone for industries that depend on timely deliveries. Their dedication is often underappreciated, yet they face numerous challenges, including fatigue, time away from family, and the physical toll of long-distance driving. Nevertheless, many take pride in the independence and sense of purpose the job offers, knowing that their work keeps shelves stocked, factories running, and communities connected.
+
+[Truck Dork](https://chatgpt.com/g/g-6872921a5814819198fbff3ef65c2df6-trucker-dork) is a custom GPT designed to assist with creating and improving solutions tailored to the trucking industry. It focuses on enhancing truck operations, safety, efficiency, and driver well-being. This includes optimizing routes, fuel efficiency, load management, and developing apps for real-time vehicle diagnostics, maintenance schedules, and driver communication. Trucker Dork also integrates technologies like GPS tracking, telematics, and AI-powered systems into user-friendly software. The goal is to provide scalable, adaptable solutions for independent truckers and large fleets while considering practical logistics challenges and regulatory compliance.
 
 <br>
 
@@ -48,6 +44,8 @@ Modern electric trucks represent a significant leap forward in sustainable trans
 
 Also, similarly, [OBD2 Performance](https://chatgpt.com/g/g-684648cb9b18819185a1ec372363d65e-obd2-performance) was made to help drivers safely enhance vehicle performance using OBD2 diagnostics and tuning tools like HP Tuners or EFI Live. It guides users through interpreting live engine data—such as air-fuel ratios (AFR), fuel trims, boost pressure, and ignition timing—and explains how these values relate to performance, efficiency, and reliability. By offering step-by-step advice, it helps users make smart, conservative adjustments to their ECU maps, whether for daily driving, racing, or performance builds. The GPT also emphasizes safe tuning practices, such as monitoring for knock, using enrichment tables, and retaining thermal protections to avoid long-term engine damage.
 
+#
+![Off-Road Antique Mud Truck](https://github.com/user-attachments/assets/b9b34492-52f0-49b1-8c36-340be10d0ee8)
 #
 
 [Car Design](https://chatgpt.com/g/g-EPHgYBaHt-car-design)
